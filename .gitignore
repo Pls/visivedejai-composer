@@ -21,10 +21,10 @@
 /.idea/
 
 # Aegir files
-sites/sites.php
-sites/*/files
-sites/*/private
-sites/*/drushrc.php
-sites/*/settings.php
-sites/*/local.settings.php
-sites/all/drush/drushrc.php
+/web/sites/sites.php
+/web/sites/*/files
+/web/sites/*/private
+/web/sites/*/drushrc.php
+/web/sites/*/settings.php
+/web/sites/*/local.settings.php
+/web/sites/all/drush/drushrc.php
